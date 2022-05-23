@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.image-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.not-found {
+  height: 500px;
+  width: 400px;
+}
+
+.description-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.heading {
+  color: #616e7c;
+  text-decoration: none;
+}
+
+.tagline {
+  color: #616e7c;
+  text-decoration: none;
+}
